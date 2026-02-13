@@ -1,11 +1,18 @@
-#Student Details
-Full Name: Eshaan Krishna
-CCID: eshaankr
+#Student Details  
+
+Full Name: Eshaan Krishna  
+
+CCID: eshaankr  
 
 
-#References and Resources
-Lab - 6 Instrutions
+#References and Resources  
 
-#Verbal Collaboration
-Student Name   CCID
-NA	           NA
+Lab - 6 Instrutions  
+
+
+#Verbal Collaboration  
+
+Student Name   CCID  
+
+NA	           NA  
+
